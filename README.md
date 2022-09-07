@@ -31,7 +31,7 @@ When you want to build a web app, you might think you need to learn HTML, CSS & 
 - Personal website: https://youtu.be/VqgUkExPvLY
 - Sales Dashboard: https://youtu.be/Sb0A9i6d320
 
-Are you for some real nerdy stuff? 🤓
+### Are you for some real nerdy stuff? 🤓
 Perhaps you do not know it, but you can request a copy of your personal Tinder data. The data includes all your messages, your swiping behaviour and much more. How about using that data to build a dashboard with all the insights you gathered from the data?
 To get started, here are a couple of useful links:  
 

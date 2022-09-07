@@ -37,7 +37,7 @@ To get started, here are a couple of useful links:
 
 - Request a copy of your Tinder data: [CLICK HERE](https://www.help.tinder.com/hc/en-us/articles/115005626726-How-do-I-request-a-copy-of-my-personal-data-)
 - A basic tutorial on analyzing your Tinder data: [CLICK HERE](https://medium.com/analytics-vidhya/tinder-data-54ba494e0a59)
-- Get some inspiration on what you could visualize: [https://tinderinsights.com/]
+- Get some inspiration on what you could visualize: https://tinderinsights.com/
 
 ## 3. Build your personal newsletter
 

@@ -1,0 +1,1 @@
+{"id":"281dca53-a417-433f-90bb-0f6832eef00e","space":22478,"runtime":"python3.9","name":"line-bot","path":"k911nm","project":"a08ql29y","account":"144798365827","region":"eu-central-1","deps":["line_bot_sdk==1.18.0","Flask==2.2.2","python-dotenv==0.20.0"],"envs":["CHANNEL_ACCESS_TOKEN","CHANNEL_ACCESS_SECRET"],"public":true,"log_level":"debug","cron":""}
